@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-./betty-doc.pl file
 
 int main(void)
 {
