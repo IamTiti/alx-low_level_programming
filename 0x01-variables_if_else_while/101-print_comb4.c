@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-        int i, j;
+        int i, j, k;
 
         for (i = 0; i < 9; i++)
         {
@@ -16,7 +16,7 @@ int main(void)
         putchar((i % 10) + '0');
         putchar((j % 10) + '0');
 	putchar((k % 10) + '0');
-        if (i == 8 && j == 9 && k == 9)
+g       if (i == 8 && j == 9 && k == 9)
         continue;
         putchar(',');
         putchar(' ');
