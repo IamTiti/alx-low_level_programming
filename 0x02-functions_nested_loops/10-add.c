@@ -8,9 +8,6 @@
  */
 int add(int n1, int n2)
 {
-	int n1;
-	int n2;
-
 	for (n1 = 0; n1++)
 	{
 	for (n2 = 0; n2++)
